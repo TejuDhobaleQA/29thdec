@@ -20,7 +20,7 @@ public static void main(String[] args) {
 	}
 	System.out.println(sum);
 	if(sum==a){
-	System.out.println("Armstrong                  number");
+	System.out.println("Armstrong number");
 	}
 	else{
 	System.out.println("not Armstrong number");	
