@@ -21,7 +21,9 @@ public static void main(String[] args) {
 		
 	}
 	System.out.println(sum);
-	System.out.println("hi");
+	if(sum==a){
+	System.out.println("Armstrong number");
+	}
 	
 }
 
