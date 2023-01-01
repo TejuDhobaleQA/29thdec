@@ -15,7 +15,6 @@ public static void main(String[] args) {
 			sum=sum+m; //27  27+125=152  152+1=153
 			a=a/10;   //15   1  
 		}
-		
 	}
 	System.out.println(sum);
 	if(sum==a){
