@@ -24,7 +24,9 @@ public static void main(String[] args) {
 	if(sum==a){
 	System.out.println("Armstrong number");
 	}
-	
+	else{
+	System.out.println("not Armstrong number");	
+	}
 }
 
 }
