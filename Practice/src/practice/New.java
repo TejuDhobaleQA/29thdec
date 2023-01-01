@@ -4,7 +4,6 @@ public class New {
 	
 public static void main(String[] args) {
 	
-	
 	int a=153; //1+125+27=153
 	int sum=0;   //
 	
